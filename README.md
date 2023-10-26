@@ -22,7 +22,7 @@ ou
 node src/soap/ExemploClienteSOAP index.js
 ```
 
-### Correis
+### Correios
 * Utilizar o pacote npm SOAP.
 * Utilizar o WSDL: https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl
 
