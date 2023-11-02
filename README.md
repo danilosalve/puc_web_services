@@ -84,3 +84,22 @@ Consumindo o servidor
 ```
 node src/express/ExemploClientSOAP/ index.js
 ```
+
+### Exemplo Server/Cliente REST
+Exemplo de um Servidor REST local utilizando a biblioteca Express.
+* Utilizar a biblioteca Express.
+
+```
+node ExemploREST/server.js 
+```
+
+## ENDPOINTS
+* GET/POST/PUT/DELETE
+```
+ localhost:3010/sequence/
+```
+
+* GETID
+```
+localhost:3010/sequence/:id
+```
